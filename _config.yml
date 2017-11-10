@@ -1,1 +1,43 @@
-theme: jekyll-theme-cayman
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://bhtang.com
+title: Aether B.T.
+email: bhtang127@gmail.com
+author: Bohao Tang
+description: > # "Bohao Tang's Personal Page" 
+copyright: 'Copyright &copy; 2017 Bohao Tang. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+# Build sitemap
+# gems:
+# - jekyll-sitemap
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - icon: pencil
+    title: blog
+    url: https://medium.com
+  - icon: envelope-o
+    title: email
+    url: mailto:bhtang127@gmail.com
+  - icon: github
+    title: github
+    url: https://github.com/bhtang127
+  - icon: linkedin
+    title: linkedin
+    url: https://www.linkedin.com/in/%E5%8D%9A%E6%B5%A9-%E5%94%90-06a551134/
+  - icon: file-pdf-o
+    title: resume
+    url: http://bhtang.com/rsc/ClassSchedule.pdf
